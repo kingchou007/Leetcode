@@ -1,1 +1,2 @@
 # Leetcode
+Language -> Java & python
